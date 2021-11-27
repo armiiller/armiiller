@@ -2,7 +2,7 @@
 
 #### I'm a Full-Stack Developer working in College Station, Texas.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/armiiller?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/armiiller?style=social)](https://twitter.com/intent/follow?screen_name=armiiller) 
 [![Linkedin Badge](https://img.shields.io/badge/-Austin_Miller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/austin-miller-b2b43b36/)](https://www.linkedin.com/in/austin-miller-b2b43b36/)
 
 ##### BIO
