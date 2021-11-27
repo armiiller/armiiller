@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**armiiller/armiiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working in College Station, Texas.
 
-Here are some ideas to get you started:
+![Twitter Follow](https://img.shields.io/twitter/follow/armiiller?style=social)
+[![Linkedin Badge](https://img.shields.io/badge/-Austin_Miller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/austin-miller-b2b43b36/)](https://www.linkedin.com/in/austin-miller-b2b43b36/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### BIO
+
+- 🏢 I'm the founder and creator of **[PagerTree](https://pagertree.com)**
+- ⚙️ I use daily: `.rb`, `.ts`, `.js`, `.html`, `.css`
+- 🌍 I'm mostly active within the **Ruby on Rails Community**
+- 🏗️ Built: [PagerTree](https://pagertree.com) and [Weclome Pilot](https://welcomepilot.com)
+- 💬 Ping me about **programming**, **reliability**, **cloud**, **saas**
