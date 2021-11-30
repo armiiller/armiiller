@@ -14,6 +14,7 @@
 - 🏗️ Built: [PagerTree](https://pagertree.com) and [Weclome Pilot](https://welcomepilot.com)
 - 💬 Ping me about **programming**, **reliability**, **cloud**, **saas**
 
+You can check out my [resume here]({% post_url resume.md %})
 
 ##### RESUME
 
@@ -25,7 +26,7 @@
 
 ##### PagerTree
 
-![PagerTree Logo](//logo.clearbit.com/spotify.com)
+![PagerTree Logo](//logo.clearbit.com/pagertree.com)
 PagerTree is a Software as a Service that provides intelligent alert routing for the modern team.
 
 Position: Founder / CEO
