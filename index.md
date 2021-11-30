@@ -19,6 +19,24 @@
 
 |When|Where|What|
 |----|-----|----|
-| April 2017 - Current | [PagerTree](https://pagertree.com) | CEO & Founder - PagerTree - On-Call. Simplified. |
+| April 2017 - Current | [PagerTree](#pagertree) | CEO & Founder - PagerTree - On-Call. Simplified. |
 | August 2013 - April 2017 | [Sogeti USA](https://www.us.sogeti.com) | Senior Consultant |
 | October 2011 - August 2013 | [L3 Communications](https://www.l3t.com/link/) | Software Engineer I |
+
+##### PagerTree
+
+![PagerTree Logo](//logo.clearbit.com/spotify.com)
+PagerTree is a Software as a Service that provides intelligent alert routing for the modern team.
+
+Position: Founder / CEO
+Time: April 2017 - Current
+
+- **Development** - Built a cloud native, highly available application solving a market need. Guaranteed 99.9% SLA. (AWS, Docker, NodeJS, MongoDB)
+- **CI/CD** - Built automated process for building & deploying software updates to multiple environments (Docker, AWS, Gitlab)
+- **Monitor** - Built monitoring system using Prometheus & Grafana
+- **Documentation** - Knowledge Base, Programmable API, Blog
+- **Team** - Hired 2 individuals in-house & outsourced other tasks
+- **Customer Support** - Troubleshooting, Bugs, Email Support
+- **Sales** - Technical sales & negotiation (Small Biz to Fortune 500)
+- **Finance** - Minimized costs & achieved 90% profit margins
+- **Marketing** - Website, Pricing, SEO, Technical Conferences
