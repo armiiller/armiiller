@@ -14,7 +14,7 @@
 - 🏗️ Built: [PagerTree](https://pagertree.com) and [Weclome Pilot](https://welcomepilot.com)
 - 💬 Ping me about **programming**, **reliability**, **cloud**, **saas**
 
-You can check out my [resume here]({% post_url resume.md %})
+You can check out my [resume here](resume.md)
 
 ##### RESUME
 
