@@ -1,1 +1,4 @@
+---
+permalink: /resume/
+---
 resume page
