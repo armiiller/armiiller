@@ -18,7 +18,8 @@
 
 |When|Where|What|
 |----|-----|----|
-| April 2017 - Current | [PagerTree](https://pagertree.com) | CEO & Founder - PagerTree - On-Call. Simplified. |
+| March 2023 - Current | [Alertifii](https://www.alertifii.com) | CEO & Owner - Alertifii - Mission Critical Notifications that bypass DnD |
+| April 2017 - Current | [PagerTree](https://pagertree.com) | CEO & Owner - PagerTree - On-Call. Simplified. |
 | August 2013 - April 2017 | [Sogeti USA](https://www.us.sogeti.com) | Senior Consultant |
 | October 2011 - August 2013 | [L3 Communications](https://www.l3t.com/link/) | Software Engineer I |
 
