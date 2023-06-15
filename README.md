@@ -13,3 +13,4 @@
 - 🌍 I'm mostly active within the **Ruby on Rails Community**
 - 🏗️ Built: [PagerTree](https://pagertree.com) and [Alertifii](https://www.alertifii.com)
 - 💬 Ping me about **programming**, **reliability**, **cloud**, **saas**
+- 💼 See my full resume: [https://austinmiller.dev/resume](https://austinmiller.dev/resume)
