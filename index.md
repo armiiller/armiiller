@@ -11,7 +11,7 @@
 - 🏢 I'm the founder and creator of **[PagerTree](https://pagertree.com)**
 - ⚙️ I use daily: `.rb`, `.ts`, `.js`, `.html`, `.css`
 - 🌍 I'm mostly active within the **Ruby on Rails Community**
-- 🏗️ Built: [PagerTree](https://pagertree.com) and [Alertifii](https://www.alertifii.com)
+- 🏗️ Built: [PagerTree](https://pagertree.com), [Alertifii](https://www.alertifii.com), [statuscode.app](https://statuscode.app/)
 - 💬 Ping me about **programming**, **reliability**, **cloud**, **saas**
 
 ##### RESUME
