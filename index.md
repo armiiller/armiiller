@@ -23,6 +23,6 @@
 | August 2013 - April 2017 | [Sogeti USA](https://www.us.sogeti.com) | Senior Consultant |
 | October 2011 - August 2013 | [L3 Communications](https://www.l3t.com/link/) | Software Engineer I |
 
-Please have a look at my [resume page](/resume.md) for complete details.
+Please have a look at my [resume page](/resume.md) for complete details. For a list of all my projects (failures and success), see the [projects page](/projects.md)
 
 
