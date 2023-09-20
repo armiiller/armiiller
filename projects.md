@@ -2,6 +2,7 @@
 permalink: /projects/
 ---
 
+# Projects
 A list of projects I've worked on, mainly so I don't forget. Sometimes to remind myself Rome wasn't built in a day.
 
 | Project | Status | ARR | Duration | Description |
@@ -13,3 +14,8 @@ A list of projects I've worked on, mainly so I don't forget. Sometimes to remind
 | [PagerTree](https://pagertree.com) | Active | $300k+ | 2016 - Current | On-Call. Simplified. PagerTree empowers teams to share on-call responsibility and respond faster when incidents occur. |
 
 \* PagerTree was the only consumer of this app.
+
+# Libraries
+Other smaller items I've worked on that are valuable.
+
+- [Deferred Request](https://github.com/armiiller/deferred_request) - A Ruby library for queuing requests to be processed later. Helpful when injesting large amounts of requests. Helps reduce the chance for DDoS.
