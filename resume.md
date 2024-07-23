@@ -3,20 +3,6 @@ permalink: /resume/
 ---
 # Experience
 
-## Alertifii
-Alertifii is a Software as a Service that provides mission critical notifications that bypass DnD.
-
-|--------|---------|
-|Position| Owner / CEO |
-|Time| March 2023 - Current |
-|Website| [https://www.alertifii.com](https://www.alertifii.com) |
-
-- **Development** - Design and develop cloud native, highly available application solving a market need that guarantees 99.9% uptime. Technologies include: Fly.io, Docker, Ruby on Rails, Redis, and PostgreSQL.
-- **CI/CD** - Built automated processes for building, testing, and deploying continuous software updates.
-- **Observability** - Application monitoring using distributed logging, error monitoring, and  Prometheus & Grafana dashboards.
-- **Documentation** - Document public facing knowledge base.
-
-
 ## PagerTree
 PagerTree is a Software as a Service that provides intelligent on-call alert notifications for Devops Teams.
 
