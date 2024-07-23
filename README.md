@@ -11,6 +11,6 @@
 - 🏢 I'm the founder and creator of **[PagerTree](https://pagertree.com)**
 - ⚙️ I use daily: `.rb`, `.ts`, `.js`, `.html`, `.css`
 - 🌍 I'm mostly active within the **Ruby on Rails Community**
-- 🏗️ Built: [PagerTree](https://pagertree.com), [Alertifii](https://www.alertifii.com), [statuscode.app](https://statuscode.app/)
+- 🏗️ Built: [PagerTree](https://pagertree.com), [statuscode.app](https://statuscode.app/)
 - 💬 Ping me about **programming**, **reliability**, **cloud**, **saas**
 - 💼 See my full resume: [https://austinmiller.dev/resume](https://austinmiller.dev/resume)
