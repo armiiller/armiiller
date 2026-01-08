@@ -21,6 +21,22 @@ PagerTree is a Software as a Service that provides intelligent on-call alert not
 - **Finance** - Minimized costs & achieved 90% profit margins.
 - **Marketing** - Website, Pricing, SEO, Technical Conferences.
 
+## ComplyBOI
+
+ComplyBOI was an automated Beneficial Ownership Information (BOI) report filing SaaS built for CPA firms.
+
+|------------|------------------|
+| Position   | Owner / Co-Founder |
+| Time       | Dec 2023 – Apr 2025 |
+
+Built and operated ComplyBOI, a SaaS platform that enabled CPA firms to efficiently file and manage client BOI reports under the Corporate Transparency Act (CTA). The product reduced manual effort, minimized filing errors, and allowed firms to offer BOI filing as a new billable service. In March 2025, the U.S. Treasury suspended most BOI enforcement, materially impacting the market.
+
+- **Product & Engineering** – Designed and developed the full SaaS application end-to-end, including secure data intake, workflow automation, white-label branding for CPA firms, and compliance with FinCEN BOI filing requirements.
+- **Compliance & Risk** – Interpreted CTA and FinCEN guidance to translate regulatory requirements into practical, auditable software workflows for accounting professionals.
+- **Go-to-Market** – Created positioning, educational content, and onboarding materials targeted at CPA firms to drive adoption of BOI filing services.
+- **Customer Enablement** – Built multi-tenant, white-label accounts enabling CPA firms to manage multiple clients while maintaining data segregation and professional branding.
+- **Business Operations** – Managed pricing, customer support, and ongoing product iteration while monitoring regulatory changes and enforcement risk.
+
 
 ## Sogeti
 Supported Pier 1 Imports (client), a retailer specializing in imported home furnishings and decor. Part of POS and Agile Apps teams.
